@@ -57,8 +57,9 @@
 
 ---
 ```
-**`/Projets-Perso`**
 ```
+**`/Projets-Perso`**
+
 
 | `#` | projet | stack | lien |
 | --- | ------ | ----- | ---- |
@@ -81,10 +82,6 @@
 
 ---
 
-<div align="center">
-
-```console
-visitor@github:~$ uptime --stats
 ```
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nayzer974&show_icons=true&hide_border=true&bg_color=07080a&title_color=FF2D2D&icon_color=FF2D2D&text_color=c9c9c9" />
