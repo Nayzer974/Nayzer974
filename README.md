@@ -9,7 +9,7 @@
  ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
 ```
 
-![Ibrahima BILAL — BL4CK](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=FF2D2D&center=true&vCenter=true&width=620&lines=%24+whoami+-%3E+BL4CK;Ibrahima+BILAL+%C2%B7+alias+BL4CK;Technicien+Assistant+Informatique;Support+N1+%C2%B7+Windows+Server+%C2%B7+Active+Directory;Dev+Web+Freelance+%C2%B7+Objectif+%3A+Pentester+Jr)
+![ — BL4CK](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=FF2D2D&center=true&vCenter=true&width=620&lines=%24+whoami+-%3E+BL4CK;Nayzer974+%C2%B7+alias+BL4CK;Technicien+Assistant+Informatique;Support+N1+%C2%B7+Windows+Server+%C2%B7+Active+Directory;Dev+Web+Freelance+%C2%B7+Objectif+%3A+Pentester+Jr)
 
 `STATUS: ONLINE` · `LOC: Toulon (83000)` · `DISPO: IMMÉDIATE` · `ALIAS: BL4CK`
 
@@ -21,8 +21,6 @@
 
 ---
 
-```console
-visitor@github:~$ cat profil.txt
 ```
 
 > Technicien Assistant Informatique certifié (Ariane Formation), rigoureux et autonome.
@@ -32,8 +30,6 @@ visitor@github:~$ cat profil.txt
 
 ---
 
-```console
-visitor@github:~$ ls /skills
 ```
 
 **`/systemes_reseaux`**
@@ -61,8 +57,6 @@ visitor@github:~$ ls /skills
 
 ---
 
-```console
-visitor@github:~$ ./run --labs
 ```
 
 | `#` | projet | stack | lien |
@@ -105,13 +99,10 @@ visitor@github:~$ uptime --stats
 
 ---
 
-```console
-visitor@github:~$ ./open-channel
-```
 
 <div align="center">
 
-[![Mail](https://img.shields.io/badge/bilalibrahima974@gmail.com-FF2D2D?style=for-the-badge&logo=gmail&logoColor=07080a)](mailto:bilalibrahima974@gmail.com)
+[![Mail](https://img.shields.io/badge/bl4ckolaitr@proton.me-FF2D2D?style=for-the-badge&logo=gmail&logoColor=07080a)](mailto:bl4ckolaitr@proton.me)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-07080a?style=for-the-badge&logo=vercel&logoColor=FF2D2D)](https://detroit-ten.vercel.app)
 
 `ACCESS GRANTED` — session terminée.
