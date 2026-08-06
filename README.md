@@ -56,7 +56,8 @@
 ![Linux](https://img.shields.io/badge/Linux-07080a?style=flat-square&logo=linux&logoColor=FF2D2D)
 
 ---
-
+```
+**`/Projets-Perso`**
 ```
 
 | `#` | projet | stack | lien |
@@ -69,11 +70,7 @@
 | `05` | **Objectif : Pentester Jr** · sécurité offensive | `Sec` | — |
 
 ---
-
-```console
-visitor@github:~$ systemctl status
 ```
-
 ```
 ● helpdesk_n1 .......... active (running)
 ● active_directory ..... active (running)
