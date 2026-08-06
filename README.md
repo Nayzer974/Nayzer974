@@ -107,7 +107,7 @@ visitor@github:~$ ./run --labs
 
 | `#` | projet | stack | lien |
 | --- | ------ | ----- | ---- |
-| `00` | **Straight in the City — Détroit** · site vitrine RP FiveM, whitelist Supabase (RLS/Realtime), dashboard admin Kanban sécurisé, bot Discord | `Next.js 16` `React 19` `Tailwind` `Supabase` `discord.js` `Vercel` `Render` | [detroit-ten.vercel.app](https://detroit-ten.vercel.app) |
+| `00` | **Straight in the City — Détroit** · site vitrine RP FiveM, whitelist Supabase (RLS/Realtime), dashboard admin Kanban sécurisé, bot Discord | `Next.js 16` `React 19` `Tailwind` `Supabase` `discord.js` `Vercel` `Render` | [https://resume-reactor-70.vercel.app/](https://resume-reactor-70.vercel.app/) |
 | `01` | **Homelab VMware** · Windows Server, Active Directory, DNS | `VMware` `WS2025` `AD DS` | — |
 | `02` | **Scripts PowerShell** · création automatisée de comptes AD | `PowerShell` | — |
 | `03` | **Réparation PC** · dépannage, pièces, récupération de données | `Hardware` | — |
