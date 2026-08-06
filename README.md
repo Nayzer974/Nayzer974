@@ -39,7 +39,13 @@ visitor@github:~$ cat profil.txt
 visitor@github:~$ ls /skills
 ```
 
+<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:24px;margin-top:12px;">
+
+<div style="display:inline-block;min-width:240px;">
+
 **`/systemes_reseaux`**
+
+<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;margin-top:8px;">
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-2022%2F2025-FF2D2D?style=flat-square&labelColor=07080a)
 
@@ -49,7 +55,15 @@ visitor@github:~$ ls /skills
 
 ![VMware](https://img.shields.io/badge/VMware_%C2%B7_VirtualBox--FF2D2D?style=flat-square&labelColor=07080a)
 
+</div>
+
+</div>
+
+<div style="display:inline-block;min-width:240px;">
+
 **`/support_hardware`**
+
+<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;margin-top:8px;">
 
 ![Helpdesk](https://img.shields.io/badge/Helpdesk-Diagnostic_N1-C1121F?style=flat-square&labelColor=07080a)
 
@@ -57,7 +71,15 @@ visitor@github:~$ ls /skills
 
 ![Parc](https://img.shields.io/badge/Gestion_de_parc-GLPI-C1121F?style=flat-square&labelColor=07080a)
 
+</div>
+
+</div>
+
+<div style="display:inline-block;min-width:240px;">
+
 **`/dev_scripting`**
+
+<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;margin-top:8px;">
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-07080a?style=flat-square&logo=powershell&logoColor=FF2D2D)
 
@@ -72,6 +94,12 @@ visitor@github:~$ ls /skills
 ![Node.js](https://img.shields.io/badge/Node.js-07080a?style=flat-square&logo=nodedotjs&logoColor=FF2D2D)
 
 ![Linux](https://img.shields.io/badge/Linux-07080a?style=flat-square&logo=linux&logoColor=FF2D2D)
+
+</div>
+
+</div>
+
+</div>
 
 ---
 
